@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[![lateautumn4lin's github stats](https://github-readme-stats.vercel.app/api?username=lateautumn4lin&theme=calm&show_owner=true&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Review_Reverse](https://github-readme-stats.vercel.app/api/pin/?username=lateautumn4lin&repo=Review_Reverse)](https://github.com/lateautumn4lin/Review_Reverse)
