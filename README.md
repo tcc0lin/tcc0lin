@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 [知乎@Lateautumn4lin](https://www.zhihu.com/people/lateautunm)
 
-[公众号@技术拆解者](https://cloudcrawler.club/)
+[公众号@技术拆解官](https://cloudcrawler.club/)
 
 ## 我的开源项目
 
