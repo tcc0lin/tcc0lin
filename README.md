@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on 好未来 Base On Beijing.China
-- 🌱 I’m currently learning Android Reverse
-- 💬 Ask me about ...
+- 🔭 I’m currently working on 好未来 Base On Beijing.China（工作3年多的爬虫工程师）
+- 🌱 I’m currently learning 安卓逆向、源码剖析、技术变现
+- 💬 Ask me what interests you
 
 ## 联系我
 
