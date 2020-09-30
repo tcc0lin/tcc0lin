@@ -25,6 +25,8 @@ Here are some ideas to get you started:
 
 [知乎@Lateautumn4lin](https://www.zhihu.com/people/lateautunm)
 
+[公众号@技术拆解者](https://cloudcrawler.club/)
+
 ## 我的开源项目
 
 1.[*HeadWolf*](https://github.com/lateautumn4lin/headwolf) : 基于Xposed和Sekiro搭建的敏捷开发的脚手架
