@@ -33,4 +33,4 @@ Here are some ideas to get you started:
 
 2.[*Arida*](https://github.com/lateautumn4lin/arida) : 基于FastAPI实现的Frida-RPC工具
 
-3.[*Review_Reverse*](https://github.com/lateautumn4lin/Review_Reverse) ：逆向项目复习总结
+3.[*Review_Reverse*](https://github.com/lateautumn4lin/Review_Reverse) ：JS逆向分析项目复习总结
