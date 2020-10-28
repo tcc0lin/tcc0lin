@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on 好未来 Base On Beijing.China（前猎豹移动、现好未来爬虫工程师，工作3年多的爬虫工程师）
-- 🌱 I’m currently learning 安卓逆向、源码剖析、技术变现
-- 💬 Ask me what interests you
+- 🔭 17年毕业的爬虫工程师，曾工作于*猎豹移动*，现任*好未来学而思网校*爬虫工程师
+- 🌱 技术范围包括逆向、源码剖析、技术变现
+- 💬 有请各路大佬来和我交朋友
 
 ## 联系我
 
