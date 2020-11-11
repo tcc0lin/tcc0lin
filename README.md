@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 [掘金@技术拆解官](https://juejin.im/user/4089838983713288)
 
-[知乎@Lateautumn4lin](https://www.zhihu.com/people/lateautunm)
+[知乎@当代庖丁](https://www.zhihu.com/people/lateautunm)
 
 [专注原理研究型的公众号@技术拆解官](https://cloudcrawler.club/)
 
