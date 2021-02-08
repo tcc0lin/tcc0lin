@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 - 🌱 技术范围包括逆向、源码剖析、技术变现
 - 💬 有请各路大佬来和我交朋友
 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=lateautumn4lin&show_icons=true&theme=radical">
+
 ## 联系我
 
 微信：linhanqiu1123
@@ -38,8 +40,8 @@ Here are some ideas to get you started:
 
 ## 我的开源项目
 
-1.[*HeadWolf*](https://github.com/lateautumn4lin/headwolf) : 基于Xposed和Sekiro搭建的敏捷开发的脚手架
+[![基于Xposed和Sekiro搭建的敏捷开发的脚手架](https://github-readme-stats.vercel.app/api/pin/?username=lateautumn4lin&show_owner&repo=headwolf)](https://github.com/lateautumn4lin/headwolf)
 
-2.[*Arida*](https://github.com/lateautumn4lin/arida) : 基于FastAPI实现的Frida-RPC工具
+[![基于FastAPI实现的Frida-RPC工具](https://github-readme-stats.vercel.app/api/pin/?username=lateautumn4lin&show_owner&repo=arida)](https://github.com/lateautumn4lin/arida)
 
-3.[*Review_Reverse*](https://github.com/lateautumn4lin/Review_Reverse) ：JS逆向分析项目复习总结
+[![JS逆向分析项目复习总结](https://github-readme-stats.vercel.app/api/pin/?username=lateautumn4lin&show_owner&repo=Review_Reverse)](https://github.com/lateautumn4lin/Review_Reverse)
