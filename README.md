@@ -38,10 +38,3 @@ Here are some ideas to get you started:
 
 ![](https://img-blog.csdnimg.cn/20201013201826288.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MzExNjkxMA==,size_16,color_FFFFFF,t_70#pic_center)
 
-## 我的开源项目
-
-[![基于Xposed和Sekiro搭建的敏捷开发的脚手架](https://github-readme-stats.vercel.app/api/pin/?username=lateautumn4lin&show_owner&repo=headwolf)](https://github.com/lateautumn4lin/headwolf)
-
-[![基于FastAPI实现的Frida-RPC工具](https://github-readme-stats.vercel.app/api/pin/?username=lateautumn4lin&show_owner&repo=arida)](https://github.com/lateautumn4lin/arida)
-
-[![JS逆向分析项目复习总结](https://github-readme-stats.vercel.app/api/pin/?username=lateautumn4lin&show_owner&repo=Review_Reverse)](https://github.com/lateautumn4lin/Review_Reverse)
