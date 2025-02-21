@@ -12,7 +12,7 @@ Focus On Android Security !!!
 ## 📫 Reach Me
 
 - Email: linhanqiu1123@gmail.com
-- Blog: [https://blog.seeflower.dev](https://tcc0lin.github.io/)
+- Blog: [https://tcc0lin.github.io/](https://tcc0lin.github.io/)
 
 
 <!--
