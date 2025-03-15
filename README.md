@@ -1,31 +1,26 @@
-### Hi there，I'm tcc0lin
+<p align="center">
+  <a href="https://tcc0lin.github.io/" target="_blank" rel="noreferrer"><img src="https://github.com/tcc0lin/picx-images-hosting/raw/master/ai-generated-7803075_1920.6f0u5uc7x2.webp" alt="my banner"></a>
+</p>
 
-Focus On Android Security !!!
+<h3 align="center">
+Hi there, I'm <a href="https://tcc0lin.github.io/" target="_blank" rel="noreferrer">tcc0lin</a> 
+</h3>
 
+<h2 align="center">
+I'm a Android Security Researcher !
+</h2> 
 
-[![It's My Github](https://github-readme-stats.vercel.app/api?username=tcc0lin&show_icons=true&theme=radical)]()
-
-## 🔭 Working
-
-- Android Reverse Engineering
-
-## 📫 Reach Me
+### 🤝 Connect with me:
 
 - Email: tcc0lin1123@gmail.com
-- Blog: [https://tcc0lin.github.io/](https://tcc0lin.github.io/)
+- Wechat: tcc0lin
 
+💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
-<!--
-**SeeFlowerX/SeeFlowerX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔭 Working
 
-Here are some ideas to get you started:
+### 📝 Latest Blog Posts
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 GitHub Stats 
+
+[![It's My Github](https://github-readme-stats.vercel.app/api?username=tcc0lin&show_icons=true&theme=radical)]()
