@@ -24,5 +24,3 @@ Android Reverse Engineering
 ### 📝 Latest Blog Posts
 
 ### 📈 GitHub Stats 
-
-[![It's My Github](https://github-readme-stats.vercel.app/api?username=tcc0lin&show_icons=true&theme=radical)]()
